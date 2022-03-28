@@ -1,0 +1,24 @@
+{
+  "name": "interactive-rating-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/nasuke0302/interactive-rating-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasuke0302/interactive-rating-component/issues"
+  },
+  "homepage": "https://github.com/nasuke0302/interactive-rating-component#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}
