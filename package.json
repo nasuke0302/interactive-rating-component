@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://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@github.com/nasuke0302/interactive-rating-component.git"
+    "type": "git"
   },
   "keywords": [],
   "author": "",
